@@ -10,9 +10,13 @@ clean package -Dmaven.test.skip=true -X -Dcheckstyle.skip=true -Dlicense.skip=tr
   
 ###cas-servlet.xml 
   * 添加了验证码校验
+  
 ###cas.properties
   * server.name=http://localhost:8080
   * host.name=sso.server
+  
 ###修改的页面样式
   * casLoginView.jsp
   * login-webflow.xml
+  
+
