@@ -1,0 +1,15 @@
+.class
+.settings
+.classpath
+.project
+.checkstyle
+*.jar
+*.war
+*.ear
+*.iml
+target/
+.idea/
+temp
+*.log
+*.keyStore
+temp.txt
