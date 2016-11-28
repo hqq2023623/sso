@@ -19,3 +19,5 @@ target/
 .idea
 *.iml
 .idea/
+*.log
+Would skip repository sso-server/
